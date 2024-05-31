@@ -16,7 +16,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 Code Structure
 The project structure is as follows:
-react-planet-data-fetching/
+react-planet-data-fetching
+/
 ├── public/
 │   ├── index.html
 ├── src/
